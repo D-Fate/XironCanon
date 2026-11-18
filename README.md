@@ -6,7 +6,7 @@
 
 ## Русский
 
-**Для просмотра лучше всего использовать интерактивный HTML:** скачайте [poets.html](poets.html) и откройте его в браузере. Все данные и управление уже внутри; установка Python и подключение к интернету не нужны.
+**Рекомендуем смотреть [интерактивный график онлайн](https://d-fate.github.io/XironCanon/poets.html).** Все данные и управление доступны прямо в браузере; устанавливать Python или другие программы не нужно.
 
 ### График и возможности
 
@@ -74,7 +74,7 @@ python sources/plot_poets.py --help
 
 ## English
 
-**The interactive HTML is the recommended way to explore the project:** download [poets.html](poets.html) and open it in a browser. All data and controls are included; no Python installation or internet connection is needed.
+**We recommend exploring the [interactive chart online](https://d-fate.github.io/XironCanon/poets.html).** All data and controls are available directly in your browser; no Python installation or additional software is required.
 
 ### Chart and features
 
